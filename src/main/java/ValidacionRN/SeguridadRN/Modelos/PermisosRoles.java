@@ -7,7 +7,6 @@ import org.springframework.data.mongodb.core.mapping.Document;
 
 @Data
 @Document
-
 public class PermisosRoles {
     @Id
     private String _id;
